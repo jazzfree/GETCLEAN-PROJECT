@@ -4,6 +4,8 @@ author: "Remco Ligthart"
 date: "Wednesday, January 21, 2015"
 output: html_document
 ---
+###Org codebook
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
 
 ###Simple codebook
 'data.frame':  180 obs. of  20 variables:
